@@ -1,6 +1,6 @@
 **Hello there! 👋👋 I'm Khant Zaw Hein**
 
-Here's my brief about mine 👦
+Here's my brief about me 👦
 
  - 🏭 Currently working as web developer at [Nexlabs](https://nexlabs.co)
  - 👩‍💻 My main tech stack is Laravel and Vue.js
