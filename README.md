@@ -19,7 +19,7 @@ Here's my brief about me 👦
  - Restaurant POS System
  - [Shal Sot Mel - ရှယ်ဆော့မယ်](https://fb.com/ShalSotMel) - Custom PHP Chatbot with Admin Panel + Automated MLBB Topup with Nodejs
  
- **Techs I Know**
+ **Techs I Know 😉 Find The Imposter 😋**
  - Linux
  - AWS Lambda, RDS, S3
  - Ditto
