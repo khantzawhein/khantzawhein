@@ -2,11 +2,12 @@
 
 Here's my brief about me 👦
 
- - 🏭 Currently working as web developer at [Nexlabs](https://nexlabs.co)
+ - 🏭 Former full-stack engineer at [Nexlabs](https://nexlabs.co)
  - 👩‍💻 My main tech stack is Laravel and Vue.js
  - ✨ Fourth place in the world (Excel) in Microsoft Office Specialist World Championship Competition 2019
- -  🏫 Currently First Year Honours CS Student @ Dagon University
- -  🌲  Fan of Travelling, Camping and Trekking.
+ -  🏫 Former First Year Honours CS Student @ Dagon University
+ -  🏫 Freshmen SE Specialization @ Chiang Mai University - College of Arts, Media and Technology
+ -  🌲  Fan of Travelling, Camping and Coding :).
  
 **You can reach me at:**
 
