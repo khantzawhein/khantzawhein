@@ -6,7 +6,7 @@ Here's my brief about me 👦
  - 👩‍💻 My main tech stack is Laravel and Vue.js
  - ✨ Fourth place in the world (Excel) in Microsoft Office Specialist World Championship Competition 2019
  -  🏫 Former First Year Honours CS Student @ Dagon University
- -  🏫 Freshmen SE Specialization @ Chiang Mai University - College of Arts, Media and Technology
+ -  🏫 2nd Year SE Specialization @ Chiang Mai University - College of Arts, Media and Technology
  -  🌲  Fan of Travelling, Camping and Coding :).
  
 **You can reach me at:**
